@@ -227,14 +227,14 @@ export function Page(){
             </div>
 
             <div className="flex justify-center py-10">
-                <div className="bg-white/90 backdrop-blur-md border border-slate-200 rounded-2xl p-8 w-full max-w-2xl text-center hover:scale-[1.01] transition-all duration-500 cursor-pointer">
+                <div className="bg-white/90 backdrop-blur-md border border-slate-200 rounded-2xl p-8 w-full max-w-4xl text-center hover:scale-[1.01] transition-all duration-500 cursor-pointer">
                 
                     <p className="text-slate-500 text-lg mb-8">Plusieurs moyens de communication à votre disposition pour plus d'informations</p>
 
                     <div className="flex flex-col md:flex-row gap-6 justify-center items-stretch">
                     {/* WhatsApp */}
                     <a
-                        href="https://wa.me/2250101010101"
+                        href="https://wa.me/2250504126099"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex-1 flex flex-col items-center justify-center gap-4 p-6 bg-gradient-to-r from-green-500 to-green-600 text-white rounded-xl hover:from-green-600 hover:to-green-700 transition-all duration-300 shadow-md hover:shadow-lg group min-h-[140px]"
@@ -242,7 +242,7 @@ export function Page(){
                         <img src="https://img.icons8.com/?size=100&id=62855&format=png&color=FFFFFF" alt="" className="h-8"/>
                         <div>
                         <span className="font-semibold text-lg block">WhatsApp</span>
-                        <span className="text-green-100 text-sm mt-1">+225 01 01 01 01 01</span>
+                        <span className="text-green-100 text-sm mt-1">+225 05 04 12 60 99</span>
                         </div>
                     </a>
 
@@ -253,13 +253,13 @@ export function Page(){
                         </svg>
                         <div>
                         <span className="font-semibold text-lg block">Téléphone</span>
-                        <span className="text-slate-300 text-sm mt-1">+225 07 07 07 07 07</span>
+                        <span className="text-slate-300 text-sm mt-1">+225 07 77 77 11 67</span>
                         </div>
                     </div>
 
-                    {/* Email optionnel */}
+                    {/* Email */}
                     <a
-                        href="mailto:contact@exemple.com"
+                        href="mailto:ulrichtoure3650@gmail.com"
                         className="flex-1 flex flex-col items-center justify-center gap-4 p-6 bg-gradient-to-r from-blue-500 to-blue-600 text-white rounded-xl hover:from-blue-600 hover:to-blue-700 transition-all duration-300 shadow-md hover:shadow-lg group min-h-[140px]"
                     >
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
@@ -268,7 +268,7 @@ export function Page(){
 
                         <div>
                         <span className="font-semibold text-lg block">Email</span>
-                        <span className="text-blue-100 text-sm mt-1">contact@exemple.com</span>
+                        <span className="text-blue-100 text-sm mt-1">ulrichtoure3650@gmail.com</span>
                         </div>
                     </a>
                     </div>

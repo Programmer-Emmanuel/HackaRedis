@@ -23,7 +23,7 @@ export function Nav(){
                             </div>
                         </a>
 
-                        {/* Navigation Desktop */}
+                        {/* Menu ordinateur */}
                         <div className="hidden md:block">
                             <ul className="flex gap-8 font-semibold text-lg">
                                 {['À propos', 'Initiateur', 'Developpeurs', 'Contacts'].map((item, index) => (
