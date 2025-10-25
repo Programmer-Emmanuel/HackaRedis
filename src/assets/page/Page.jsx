@@ -129,15 +129,15 @@ export function Page(){
                         Notre développeur principal qui guide l'équipe technique
                     </p>
                     <div className="flex justify-center">
-                        <a href="#">
-                            <Developpeurs 
-                                image={images.logo}
-                                chef="LEAD DEV"
-                                nom="Judicael CAKPO"
-                                fonction="Développeur Front-End"
-                                niveau="Licence 3 Genie Informatique"
-                            />  
-                        </a>
+                        <Developpeurs 
+                            image={images.logo}
+                            chef="LEAD DEV"
+                            nom="Judicael CAKPO"
+                            fonction="Développeur Front-End"
+                            niveau="Licence 3 Genie Informatique"
+                            linkedin="https://linkedin.com/in/johndoe"
+                            whatsapp="33612345678"
+                        />
                     </div>
                 </div>
                 
@@ -148,54 +148,54 @@ export function Page(){
                         Découvrez les autres developpeurs qui travaillent ensemble dans le domaine technique 
                     </p>
                     <div className="flex flex-wrap justify-center gap-5">
-                        <a href="https://www.linkedin.com/in/monneka-ange-eloge-kohou-143415327">
-                            <Developpeurs 
-                                image={images.logo}
-                                nom="Eloge KOHOU"
-                                fonction="Développeur Back-End"
-                                niveau="Licence 3 Genie Informatique"
-                            />
-                        </a>
-                        <a href="#">
-                            <Developpeurs 
-                                image={images.logo}
-                                nom="David KOUAHO"
-                                fonction="Développeur Front-End"
-                                niveau="Licence 3 Genie Informatique"
-                            />
-                        </a>
-                        <a href="https://www.linkedin.com/in/emmanuel-bamidele-b63a49274/">
-                            <Developpeurs 
-                                image={images.bamidele}
-                                nom="Emmanuel BAMIDELE"
-                                fonction="Développeur Front-End"
-                                niveau="Licence 3 Genie Informatique"
-                            />
-                        </a>
-                        <a href="#">
-                            <Developpeurs 
-                                image={images.logo}
-                                nom="Henoc Guei"
-                                fonction="Développeur Front & Designer"
-                                niveau="Licence 3 Genie Informatique"
-                            />
-                        </a>
-                        <a href="#">
-                            <Developpeurs 
-                                image={images.brouzro}
-                                nom="Marc-Aurel BROUZRO"
-                                fonction="Développeur Front-End"
-                                niveau="Licence 3 Genie Informatique"
-                            />
-                        </a>
-                        <a href="https://www.linkedin.com/in/jean-emmanuel-ahossi-44132a26b/">
-                            <Developpeurs 
-                                image={images.ahossi}
-                                nom="Emmanuel AHOSSI"
-                                fonction="Développeur Front-End"
-                                niveau="Licence 3 Genie Informatique"
-                            />
-                        </a>
+                        <Developpeurs 
+                            image={images.logo}
+                            nom="Eloge KOHOU"
+                            fonction="Développeur Back-End"
+                            niveau="Licence 3 Genie Informatique"
+                            linkedin="#"
+                            whatsapp="0140834531"
+                        />
+                        <Developpeurs 
+                            image={images.logo}
+                            nom="David KOUAHO"
+                            fonction="Développeur Front-End"
+                            niveau="Licence 3 Genie Informatique"
+                            linkedin="#"
+                            whatsapp="0171136261"
+                        />
+                        <Developpeurs 
+                            image={images.bamidele}
+                            nom="Emmanuel BAMIDELE"
+                            fonction="Développeur Front-End"
+                            niveau="Licence 3 Genie Informatique"
+                            linkedin="https://www.linkedin.com/in/emmanuel-bamidele-b63a49274/"
+                            whatsapp="0140022693"
+                        />
+                        <Developpeurs 
+                            image={images.guei}
+                            nom="Henoc Guei"
+                            fonction="Développeur Front & Designer"
+                            niveau="Licence 3 Genie Informatique"
+                            linkedin="https://www.linkedin.com/in/inf-junio-relysee/"
+                            whatsapp="0564652757"
+                        />
+                        <Developpeurs 
+                            image={images.brouzro}
+                            nom="Marc-Aurel BROUZRO"
+                            fonction="Développeur Front-End"
+                            niveau="Licence 3 Genie Informatique"
+                            linkedin="https://linkedin.com/in/johndoe"
+                            whatsapp="0152161769"
+                        />
+                        <Developpeurs 
+                            image={images.ahossi}
+                            nom="Emmanuel AHOSSI"
+                            fonction="Testeur des plateformes"
+                            niveau="Licence 3 Genie Informatique"
+                            linkedin="https://www.linkedin.com/in/jean-emmanuel-ahossi-44132a26b/"
+                            whatsapp="0704526437"
+                        />
                     </div>
                 </div>
             </div>
