@@ -1,4 +1,4 @@
-import logo from "../assets/images/logo.jpg"
+import logo from "../assets/images/HackaRedis2.png"
 import technology from "../assets/images/technology.png"
 import settings from "../assets/images/settings.png"
 import digital from "../assets/images/digital-transformation.png"
@@ -10,6 +10,7 @@ import brouzro from "../assets/images/WhatsApp Image 2025-10-20 à 17.28.34_dde1
 import bamidele from "../assets/images/WhatsApp Image 2025-10-20 à 17.40.09_a97e88a3.jpg"
 import ahossi from "../assets/images/WhatsApp Image 2025-10-20 à 17.42.51_363e85d8.jpg"
 import guei from "../assets/images/WhatsApp Image 2025-10-21 à 15.06.14_c83b98d8.jpg"
+import cakpo from "../assets/images/WhatsApp Image 2025-10-28 à 22.27.04_8be4bba7.jpg"
 
 const images = {
     logo,
@@ -23,7 +24,8 @@ const images = {
     brouzro,
     bamidele,
     ahossi,
-    guei
+    guei,
+    cakpo
 }
 
 export default images;

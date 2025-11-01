@@ -25,7 +25,7 @@ export function Header() {
           </h3>
 
           <a 
-            href="#"
+            href="https://hackaredis.vercel.app"
             className="inline-block mt-4 px-8 py-3 bg-orange-500 hover:bg-orange-600 text-white font-semibold rounded-full shadow-md hover:shadow-lg transition-all duration-300"
           >
             Participer à l’hackathon

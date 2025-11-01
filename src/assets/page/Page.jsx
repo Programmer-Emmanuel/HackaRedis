@@ -94,7 +94,7 @@ export function Page(){
                     Touré Malick Ulrich
                     </h1>
                     <h3 className="text-slate-600 text-lg italic mb-5">
-                    Président du Redis & Délégué L3 GI
+                    Délégué de la Licence 3 Génie Informatique
                     </h3>
                     <p className="text-slate-700 text-base leading-relaxed">
                     Passionné par l’innovation technologique et le travail collaboratif, 
@@ -130,13 +130,13 @@ export function Page(){
                     </p>
                     <div className="flex justify-center">
                         <Developpeurs 
-                            image={images.logo}
+                            image={images.cakpo}
                             chef="LEAD DEV"
                             nom="Judicael CAKPO"
                             fonction="Développeur Front-End"
                             niveau="Licence 3 Genie Informatique"
-                            linkedin="https://linkedin.com/in/johndoe"
-                            whatsapp="33612345678"
+                            linkedin="https://www.linkedin.com/in/judicael-cakpo-6907b32a0"
+                            whatsapp="0564624366"
                         />
                     </div>
                 </div>
