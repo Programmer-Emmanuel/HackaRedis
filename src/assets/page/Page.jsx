@@ -157,11 +157,11 @@ export function Page(){
                             whatsapp="0140834531"
                         />
                         <Developpeurs 
-                            image={images.logo}
+                            image={images.kouaho}
                             nom="David KOUAHO"
                             fonction="Développeur Front-End"
                             niveau="Licence 3 Genie Informatique"
-                            linkedin="#"
+                            linkedin="https://www.linkedin.com/in/david-kouaho"
                             whatsapp="0171136261"
                         />
                         <Developpeurs 
