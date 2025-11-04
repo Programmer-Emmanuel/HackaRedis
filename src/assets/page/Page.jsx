@@ -185,7 +185,7 @@ export function Page(){
                             nom="Marc-Aurel BROUZRO"
                             fonction="Développeur Front-End"
                             niveau="Licence 3 Genie Informatique"
-                            linkedin="https://linkedin.com/in/johndoe"
+                            linkedin="https://www.linkedin.com/in/marcaurel-brouzro-1852462ab/"
                             whatsapp="0152161769"
                         />
                         <Developpeurs 
