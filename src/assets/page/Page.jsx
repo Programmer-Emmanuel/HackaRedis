@@ -149,11 +149,11 @@ export function Page(){
                     </p>
                     <div className="flex flex-wrap justify-center gap-5">
                         <Developpeurs 
-                            image={images.logo}
+                            image={images.kohou}
                             nom="Eloge KOHOU"
                             fonction="Développeur Back-End"
                             niveau="Licence 3 Genie Informatique"
-                            linkedin="#"
+                            linkedin="https://www.linkedin.com/in/monneka-ange-eloge-kohou-143415327/"
                             whatsapp="0140834531"
                         />
                         <Developpeurs 

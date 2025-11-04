@@ -13,6 +13,7 @@ import ahossi from "../assets/images/WhatsApp Image 2025-10-20 à 17.42.51_363e8
 import guei from "../assets/images/WhatsApp Image 2025-10-21 à 15.06.14_c83b98d8.jpg"
 import cakpo from "../assets/images/WhatsApp Image 2025-10-28 à 22.27.04_8be4bba7.jpg"
 import kouaho from "../assets/images/WhatsApp Image 2025-11-03 à 13.42.57_6875bc2d.jpg"
+import kohou from "../assets/images/WhatsApp Image 2025-11-03 à 19.39.13_c00ca444.jpg"
 
 const images = {
     logo,
@@ -29,7 +30,8 @@ const images = {
     ahossi,
     guei,
     cakpo,
-    kouaho
+    kouaho,
+    kohou
 }
 
 export default images;
