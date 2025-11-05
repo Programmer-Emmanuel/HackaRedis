@@ -18,7 +18,7 @@ export function Nav(){
                                     className="rounded-full h-12"
                                 />
                                 <h1 className="text-white text-2xl font-bold italic">
-                                    HackaRedis
+                                    Equipe Technique
                                 </h1>
                             </div>
                         </a>
